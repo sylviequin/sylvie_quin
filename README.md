@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sylviequin&show_icons=true&locale=en" alt="sylviequin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sylviequin&" alt="sylviequin" /></p>
-# sylvie_quin
+# sylviequin
