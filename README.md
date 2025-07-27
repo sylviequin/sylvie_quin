@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, It's me again, Sylvie</h1>
+<h1 align="center">Welcome 👋 It's me, Sylvie</h1>
 <h3 align="center">A data passionate student (MQ'27) with a strong interest in marketing strategy, statistics, and data-driven decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sylviequin&label=Profile%20views&color=0e75b6&style=flat" alt="sylviequin" /> </p>
